@@ -1,4 +1,4 @@
-## Welcome to Zanders.be
+# Welcome to zanders.be
 
 So far, so good.
 
